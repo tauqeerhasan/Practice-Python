@@ -4,6 +4,6 @@ hello and welcome to my python practice repo. here you find my practice work of 
 
 practice have been done through online stuff on different websites.
 
-practice yourself for increase programing, and make your day more PYTHONIC.
+practice yourself to increase programing skills, and make your day more PYTHONIC.
 
 thank you.
