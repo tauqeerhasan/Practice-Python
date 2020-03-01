@@ -1,6 +1,6 @@
 # Practice-Python
 
-hello and welcom to my python practice repo. here you find my practice work of python on different liabraries. i can be helpful for you.
+hello and welcome to my python practice repo. here you find my practice work of python on different liabraries. i can be helpful for you.
 
 practice have been done through online stuff on different websites.
 
